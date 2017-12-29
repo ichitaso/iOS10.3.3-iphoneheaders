@@ -1,0 +1,13 @@
+#import <RecentlyPlayedTodayExtension/MusicCapabilities.h>
+#import <RecentlyPlayedTodayExtension/MusicMonogramArtworkToken.h>
+#import <RecentlyPlayedTodayExtension/MusicMonogramArtworkDataSource.h>
+#import <RecentlyPlayedTodayExtension/RecentlyPlayedTodayExtension.RecentlyPlayedTodayItem.h>
+#import <RecentlyPlayedTodayExtension/_TtCV28RecentlyPlayedTodayExtension7Artwork24LoadingStatusCoordinator.h>
+#import <RecentlyPlayedTodayExtension/RecentlyPlayedTodayExtension.RecentlyPlayedTodayViewController.h>
+#import <RecentlyPlayedTodayExtension/RecentlyPlayedTodayExtension.RecentlyPlayedCollectionCell.h>
+#import <RecentlyPlayedTodayExtension/MusicAppTheme.h>
+#import <RecentlyPlayedTodayExtension/RecentlyPlayedTodayExtension.NotificationObserver.h>
+#import <RecentlyPlayedTodayExtension/_TtCV28RecentlyPlayedTodayExtension7Artwork14CachingContext.h>
+#import <RecentlyPlayedTodayExtension/RecentlyPlayedTodayExtension.ArtworkComponentImageView.h>
+#import <RecentlyPlayedTodayExtension/_TtCV28RecentlyPlayedTodayExtension7Artwork9Component.h>
+#import <RecentlyPlayedTodayExtension/RecentlyPlayedTodayExtension.DeinitTriggeredClosure.h>

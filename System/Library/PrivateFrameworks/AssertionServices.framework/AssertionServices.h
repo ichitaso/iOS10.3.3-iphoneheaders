@@ -1,0 +1,12 @@
+#import <AssertionServices/BKSApplicationStateMonitor.h>
+#import <AssertionServices/BKSProcess.h>
+#import <AssertionServices/BKSProcessAssertion.h>
+#import <AssertionServices/BKSProcessAssertionClient.h>
+#import <AssertionServices/BKSProcessClient.h>
+#import <AssertionServices/BKSProcessExitContext.h>
+#import <AssertionServices/BKSProcessAssertionCreateEvent.h>
+#import <AssertionServices/BKSLaunchdJobSpecification.h>
+#import <AssertionServices/BKSProcessAssertionDestroyEvent.h>
+#import <AssertionServices/BKSProcessAssertionEvent.h>
+#import <AssertionServices/BKSProcessAssertionUpdateEvent.h>
+#import <AssertionServices/BKSWorkspace.h>

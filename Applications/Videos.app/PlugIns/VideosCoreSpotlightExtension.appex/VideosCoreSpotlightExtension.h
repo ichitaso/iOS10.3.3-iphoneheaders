@@ -1,0 +1,1 @@
+#import <VideosCoreSpotlightExtension/VideosIndexRequestHandler.h>

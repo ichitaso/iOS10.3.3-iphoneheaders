@@ -1,0 +1,1 @@
+#import <MusicCoreSpotlightExtension/MusicIndexRequestHandler.h>

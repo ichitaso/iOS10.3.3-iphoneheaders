@@ -1,0 +1,1 @@
+#import <ContactsCoreSpotlightExtension/CNExtensionIndexRequestHandler.h>

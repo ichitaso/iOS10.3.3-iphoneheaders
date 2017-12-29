@@ -1,0 +1,14 @@
+#import <Diagnostic-3939/ButtonSwitchInputs.h>
+#import <Diagnostic-3939/DARingerSwitchStateReader.h>
+#import <Diagnostic-3939/DASpriteImage.h>
+#import <Diagnostic-3939/DASpecification.h>
+#import <Diagnostic-3939/DAParameters.h>
+#import <Diagnostic-3939/DAStateRange.h>
+#import <Diagnostic-3939/DAButtonSegment.h>
+#import <Diagnostic-3939/DAButtonParameters.h>
+#import <Diagnostic-3939/DASwitchState.h>
+#import <Diagnostic-3939/DASwitchParameters.h>
+#import <Diagnostic-3939/DAAsset.h>
+#import <Diagnostic-3939/DAButtonSwitchSpecification.h>
+#import <Diagnostic-3939/DAButtonSwitchState.h>
+#import <Diagnostic-3939/ButtonSwitchInputViewController.h>
