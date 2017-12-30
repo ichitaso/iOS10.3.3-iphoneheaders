@@ -1,0 +1,14 @@
+#import <com.apple.CallKit.CallDirectory/CDXExtensionDataRequest.h>
+#import <com.apple.CallKit.CallDirectory/CDXAWDReporter.h>
+#import <com.apple.CallKit.CallDirectory/CDXSynchronizeExtensionsOperation.h>
+#import <com.apple.CallKit.CallDirectory/AWDCXCallDirectoryChanged.h>
+#import <com.apple.CallKit.CallDirectory/CDXRetrieveExtensionEnabledStatusOperation.h>
+#import <com.apple.CallKit.CallDirectory/CDXSetExtensionEnabledOperation.h>
+#import <com.apple.CallKit.CallDirectory/CDXManager.h>
+#import <com.apple.CallKit.CallDirectory/CDXLoadExtensionDataOperation.h>
+#import <com.apple.CallKit.CallDirectory/CDXCompactStoreOperation.h>
+#import <com.apple.CallKit.CallDirectory/CDXPrioritizeExtensionsOperation.h>
+#import <com.apple.CallKit.CallDirectory/CDXRetrieveExtensionsOperation.h>
+#import <com.apple.CallKit.CallDirectory/CDXRetrieveFirstIdentificationEntriesOperation.h>
+#import <com.apple.CallKit.CallDirectory/CDXRetrieveFirstIdentificationEntriesOperationExtensionsDataSource.h>
+#import <com.apple.CallKit.CallDirectory/CDXPrepareStoreOperation.h>

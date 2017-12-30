@@ -1,0 +1,11 @@
+#import <IMAutomaticHistoryDeletionAgent/IMHealthCheckTranscript.h>
+#import <IMAutomaticHistoryDeletionAgent/IMHealthCheck.h>
+#import <IMAutomaticHistoryDeletionAgent/IMHealthCheckOperationAndCost.h>
+#import <IMAutomaticHistoryDeletionAgent/IMHProcessedResponse.h>
+#import <IMAutomaticHistoryDeletionAgent/IMHServiceWrapper.h>
+#import <IMAutomaticHistoryDeletionAgent/IMHealthCheckDaemon.h>
+#import <IMAutomaticHistoryDeletionAgent/IMHealthCheckDelta.h>
+#import <IMAutomaticHistoryDeletionAgent/IMHRequestStore.h>
+#import <IMAutomaticHistoryDeletionAgent/IMHDistanceCalculator.h>
+#import <IMAutomaticHistoryDeletionAgent/IMHealthCheckIDSInterface.h>
+#import <IMAutomaticHistoryDeletionAgent/IMHealthCheckResponse.h>

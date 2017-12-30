@@ -1,0 +1,1 @@
+#import <SFDiagnosticExtension/SFDiagnosticExtensionMain.h>

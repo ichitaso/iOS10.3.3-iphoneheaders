@@ -1,0 +1,1 @@
+#import <FavoritesTodayWidget/TPFavoritesTodayViewController.h>

@@ -1,0 +1,7 @@
+#import <RPBroadcastActivityViewControllerExtension/RPBroadcastActivityExtensionViewController.h>
+#import <RPBroadcastActivityViewControllerExtension/RPBroadcastActivityExtensionContext.h>
+#import <RPBroadcastActivityViewControllerExtension/RPDaemonProxy.h>
+#import <RPBroadcastActivityViewControllerExtension/RPSharedConstants.h>
+#import <RPBroadcastActivityViewControllerExtension/RPStreamingActivity.h>
+#import <RPBroadcastActivityViewControllerExtension/RPStreamingActivityKey.h>
+#import <RPBroadcastActivityViewControllerExtension/RPBroadcastConfiguration.h>
